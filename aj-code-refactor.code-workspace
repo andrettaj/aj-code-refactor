@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "aj-code-refactor",
+			"path": "."
+		},
+		{
+			"path": "../testing/urban-octo-telegram"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aj-code-refactor"
+	}
+}
